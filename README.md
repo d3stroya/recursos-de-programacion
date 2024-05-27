@@ -14,7 +14,7 @@
 * **Introducción**
   * [Introducción a la programación - Open Bootcamp](https://www.youtube.com/watch?v=P_7QAaWgvF8&list=PLkVpKYNT_U9c9Ziz0s23ruSgUMGtFGg5A&ab_channel=OpenBootcamp)
   * [Conceptos de programación - Open Bootcamp](https://www.youtube.com/watch?v=EObCEocJ3aw&list=PLkVpKYNT_U9c4RJ-XD2zoWa7A9og1TgzK&index=1&ab_channel=OpenBootcamp)
-  * [Curso de lógica de programación(MoureDev)](https://www.youtube.com/watch?v=TdITcVD64zI&ab_channel=TodoCode)
+  * [Curso de lógica de programación - MoureDev](https://www.youtube.com/watch?v=TdITcVD64zI&ab_channel=TodoCode)
 * **Java**
   * [Java desde 0 - Píldoras Informáticas](https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&ab_channel=pildorasinformaticas)
   * [Java - Open Bootcamp](https://www.youtube.com/watch?v=08f8_eHrarU&list=PLkVpKYNT_U9cD2VjlxgCsLzGCItSB9WUX&ab_channel=OpenBootcamp)
